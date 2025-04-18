@@ -2,11 +2,7 @@
 
 > AI-powered Travel Planning | Social Sharing | Online Reservations
 
-<p align="left">
-  <a href="./README.en.md">
-    <img src="https://img.shields.io/badge/English-Version-blue?style=for-the-badge&logo=translate" alt="English Version" />
-  </a>
-</p>
+## [🇮🇷 نسخه فارسی (Persian Version)](./README.md)
 
 ## ✈️ Project Overview
 
