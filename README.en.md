@@ -1,10 +1,8 @@
-[🇮🇷 نسخه فارسی (Persian Version)](./README.md)
-
 # 🌍 BroBerim Smart Travel App
 
 > AI-powered Travel Planning | Social Sharing | Online Reservations
 
----
+## [🇮🇷 نسخه فارسی (Persian Version)](./README.md)
 
 ## ✈️ Project Overview
 
