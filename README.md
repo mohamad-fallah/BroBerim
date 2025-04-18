@@ -1,5 +1,3 @@
-[English version 🇺🇸](./README.en.md)
-
 # 🌍 اپلیکیشن سفر هوشمند «BroBerim»
 
 [English version 🇺🇸](./README.en.md)
