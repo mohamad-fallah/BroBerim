@@ -1,6 +1,10 @@
 # 🌍 اپلیکیشن سفر هوشمند «BroBerim»
 
-[English version 🇺🇸](./README.en.md)
+<p align="left">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/نسخه_فارسی-سبز?style=for-the-badge&logo=translate" alt="نسخه فارسی" />
+  </a>
+</p>
 
 > برنامه‌ریزی سفر با هوش مصنوعی | اشتراک‌گذاری تجربیات | رزرو آنلاین
 
