@@ -1,4 +1,4 @@
-# 🌍 BroBerim Smart Travel App
+# 🌍 BroBerim Smart Travel Apps
 
 > AI-powered Travel Planning | Social Sharing | Online Reservations
 
