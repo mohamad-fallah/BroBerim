@@ -46,7 +46,7 @@ export default function Home() {
                 تجربه وب مدرن و شگفت‌انگیز
               </p>سشیسسس
             </div>
-
+شسیس
             <div className="backdrop-blur-lg bg-white/10 rounded-3xl p-8 md:p-12 border border-white/20 shadow-2xl animate-fade-in-up delay-500">
               <p className="text-lg text-gray-200 mb-8 leading-relaxed">
                 پلتفرم پیشرفته ما با استفاده از جدیدترین فناوری‌ها طراحی شده تا تجربه‌ای بی‌نظیر برای کاربران فراهم کند.
