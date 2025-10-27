@@ -44,7 +44,7 @@ export default function Home() {
               </h1>
               <p className="text-xl md:text-2xl text-gray-300 mb-8 animate-fade-in-up delay-300">
                 تجربه وب مدرن و شگفت‌انگیز
-              </p>
+              </p>سشی
             </div>
 
             <div className="backdrop-blur-lg bg-white/10 rounded-3xl p-8 md:p-12 border border-white/20 shadow-2xl animate-fade-in-up delay-500">
