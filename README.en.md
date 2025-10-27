@@ -4,7 +4,7 @@
 
 ## [🇮🇷 نسخه فارسی (Persian Version)](./README.md)
 
-## ✈️ Project Overview
+## ✈️ Project Overviews
 
 **BroBerim** is an intelligent platform designed to plan and experience unique trips, leveraging AI to offer personalized and unforgettable journeys. It allows users to plan trips according to their interests, budgets, and specific conditions while benefiting from other travelers' unique experiences.
 
