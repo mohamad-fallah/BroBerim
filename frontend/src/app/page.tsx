@@ -39,7 +39,7 @@ export default function Home() {
         <section className="min-h-screen flex items-center justify-center px-6">
           <div className="text-center max-w-4xl mx-auto">
             <div className="mb-8">
-              <h1 className="text-6xl md:text-8xl font-bold bg-gradient-to-r from-white via-purple-200 to-blue-200 bg-clip-text text-transparent mb-6 animate-fade-in-up">
+              <h1 className="شسسیشیسext-6xl md:text-8xl font-bold bg-gradient-to-r from-white via-purple-200 to-blue-200 bg-clip-text text-transparent mb-6 animate-fade-in-up">
                 Boro
               </h1>
               <p className="text-xl md:text-2xl text-gray-300 mb-8 animate-fade-in-up delay-300">
