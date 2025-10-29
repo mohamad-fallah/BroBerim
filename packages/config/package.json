@@ -1,0 +1,6 @@
+{
+  "name": "@broberim/config",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js"
+}
